@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4019bbff-6e82-4a41-88f1-bdfae0918eca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/book/src/components/Cart/Cart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/components/Cart/Cart.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/components/Header/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/components/Header/Header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/components/Home/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/components/Home/Home.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/components/Product/Product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/components/Product/Product.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/img/cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/img/order5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/img/preloader.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/redux/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/redux/reducers/book.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/redux/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/src/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/src/components/Header/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/src/components/Header/Header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/src/components/Home/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/src/components/Home/Home.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/src/components/Product/Product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/src/components/Product/Product.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/src/redux/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/src/redux/reducers/car.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/src/redux/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/src/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather/src/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/book/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/book/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/book/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/game/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/game/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/game/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/game/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/weather" />
+  </component>
+  <component name="ProjectId" id="29R1pvfn1h91cF9xaNeiijrIUg5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/game/src" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.5ю1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\проекты\react\game\src" />
+      <recent name="C:\Users\User\Documents\проекты\react\weather\src\components\minics" />
+      <recent name="C:\Users\User\Documents\проекты\react\weather\src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4019bbff-6e82-4a41-88f1-bdfae0918eca" name="Default Changelist" comment="" />
+      <created>1653061269696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653061269696</updated>
+      <workItem from="1653061273858" duration="3103000" />
+      <workItem from="1653151835904" duration="4974000" />
+      <workItem from="1653221948550" duration="7263000" />
+      <workItem from="1653317124934" duration="335000" />
+      <workItem from="1653328192263" duration="2757000" />
+      <workItem from="1653410922085" duration="1738000" />
+      <workItem from="1653497850294" duration="2918000" />
+      <workItem from="1653567952464" duration="3956000" />
+      <workItem from="1653577428332" duration="3833000" />
+      <workItem from="1653848829229" duration="2756000" />
+      <workItem from="1653851679233" duration="2614000" />
+      <workItem from="1653917821647" duration="2909000" />
+      <workItem from="1653933330938" duration="3978000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1653854053288">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1653854053288" />
+    <state x="405" y="187" key="EditFileWatcherDialog" timestamp="1653062708609">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="405" y="187" key="EditFileWatcherDialog/0.0.1536.816@0.0.1536.816" timestamp="1653062708609" />
+    <state x="425" y="185" key="run.anything.popup" timestamp="1653568487036">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="425" y="185" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1653568487036" />
+  </component>
+</project>
